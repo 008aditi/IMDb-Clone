@@ -1,4 +1,6 @@
 # IMDb-Clone
+This site is live at https://008aditi.github.io/IMDb-Clone/
+
 IMDb is an online database of information related to movie.
 
 It comprises of three pages with below features:
