@@ -3,10 +3,10 @@ IMDb is an online database of information related to movie.
 
 It comprises of three pages with below features:
 1)Home Page
-a)Search any movie from the API and display the search results on the frontend (as I type the search results should update, 
+->Search any movie from the API and display the search results on the frontend (as I type the search results should update, 
 just like Google does for suggestions).
-b)Each search result of the movie should have a favourite button, clicking on which the movie should be added to “My favourite movies” (a list).
-c)On clicking any particular search result (any movie), open a new page with more information about that movie (movie page)
+->Each search result of the movie should have a favourite button, clicking on which the movie should be added to “My favourite movies” (a list).
+->On clicking any particular search result (any movie), open a new page with more information about that movie (movie page)
 
 2)Movie Page
 ->Should show information about the movie like its name, photo, plot, etc (these are must, rest you can add if you want).
